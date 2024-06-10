@@ -1,0 +1,20 @@
+.display {
+    display: inline-block;
+    height: 10em;
+    padding-top: 10%;
+}
+
+#mydisplay{
+    display: block;
+}
+ body {
+    text-align: center;
+ }
+ span{
+    font-size: 5em;
+ }
+
+#mybutton {
+    font-size:2em ;
+    cursor: pointer;
+}
